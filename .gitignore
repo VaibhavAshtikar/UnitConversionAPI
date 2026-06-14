@@ -1,0 +1,50 @@
+# Visual Studio / .NET
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build outputs
+[Bb]in/
+[Oo]bj/
+**/bin/
+**/obj/
+
+# Rider
+.idea/
+
+# Visual Studio Code
+.vscode/
+
+# NuGet
+*.nupkg
+.packages/
+.nuget/
+
+# Publish
+publish/
+wwwroot/
+
+# Logs
+*.log
+TestResults/
+
+# Coverage and test artifacts
+coverage/
+coverage*.json
+*.coverage
+*.coveragexml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IIS Express
+/.vs/*
+
+# Rider caches
+.idea/
+
+# User secrets
+secrets.json
